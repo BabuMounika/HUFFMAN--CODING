@@ -72,12 +72,14 @@ for char, code in huffman_codes.items():
 
 
 
+
 ```
 ## Output:
 
 ### Print the characters and its huffmancode
+<img width="259" height="217" alt="Screenshot 2025-11-11 234835" src="https://github.com/user-attachments/assets/cfee4dd7-4e1c-43eb-b028-45621aaaf4b0" />
 
-<img width="312" height="417" alt="Screenshot 2025-11-08 212430" src="https://github.com/user-attachments/assets/a1cd5cf6-6130-4f2d-b54e-a9c05410b188" />
+
 
 
 
